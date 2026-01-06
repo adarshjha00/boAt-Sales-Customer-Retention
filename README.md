@@ -1,5 +1,9 @@
 # 🎧 boAt Sales & Customer Analytics Dashboard (SQL + Power BI)
 
+## 🧩 Business Problem Statement
+boAt aims to gain a holistic understanding of its sales performance, customer behavior, fulfillment efficiency, and customer sentiment across multiple sales channels.
+The objective of this project is to analyze historical transactional data to identify revenue drivers, customer retention patterns, operational bottlenecks, and areas of improvement to support data-driven business decisions.
+
 ## 🔍 Project Overview
 
 This project presents a **comprehensive business analytics dashboard for boAt**, built using **SQL and Power BI**, focusing on sales performance, customer behavior, fulfillment efficiency, and customer sentiment analysis.
