@@ -1,4 +1,4 @@
-# 🎧 boAt Sales & Customer Analytics Dashboard (SQL + Power BI)
+# 🎧 boAt Sales & Customer Retention Dashboard (SQL + Power BI)
 
 ## 🧩 Business Problem Statement
 boAt aims to gain a holistic understanding of its sales performance, customer behavior, fulfillment efficiency, and customer sentiment across multiple sales channels.
